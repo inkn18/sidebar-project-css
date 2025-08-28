@@ -35,6 +35,4 @@ Perfect for dashboards, portfolios, and educational projects.
 
 ---
 
-## 📂 Project Structure
-
 
